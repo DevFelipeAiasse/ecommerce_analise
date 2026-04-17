@@ -1,6 +1,6 @@
 """
 Análise Exploratória de Dados (EDA) - Ecommerce Estatística
-Autor: Felipe
+Autor: Felipe Aiasse Franco
 Descrição:
     Este script realiza uma análise exploratória completa do dataset
     'ecommerce_estatistica.csv', incluindo visualizações como:
